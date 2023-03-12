@@ -259,7 +259,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <ul>
     <li><a href="https://www.github.com/TheDikes">Github</a></li>
     <li><a href="mailto:dikecynthia22@gmail.com">e-mail</a></li>
-    <li><a href="https://www.github.com/nwosudavid">Github</a></li>
+    <li><a href="https://www.github.com/DaviesBrown">Github</a></li>
     <li><a href="mailto:nwosudavid77@gmail.com">e-mail</a></li>
     </ul>
 </details>
