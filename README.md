@@ -272,6 +272,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 git shortlog -se \
   | perl -spe 's/^\s+\d+\s+//' \
   | sed -e '/^CommitSyncScript.*$/d' \
-  > AUTHORS
+  
+  ## AUTHORS
  Cynthia Dike - dikecynthia22@gmail.com
 David Nwosu - nwosudavid77@gmail.com
