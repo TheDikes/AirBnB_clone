@@ -273,4 +273,5 @@ git shortlog -se \
   | perl -spe 's/^\s+\d+\s+//' \
   | sed -e '/^CommitSyncScript.*$/d' \
   > AUTHORS
-  ```
+  ```Cynthia Dike - dikecynthia22@gmail.com```
+```David Nwosu - nwosudavid77@gmail.com```
